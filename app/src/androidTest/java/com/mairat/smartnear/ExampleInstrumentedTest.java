@@ -1,4 +1,4 @@
-package com.realdos.smartnear;
+package com.mairat.smartnear;
 
 import android.content.Context;
 

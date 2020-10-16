@@ -1,4 +1,4 @@
-package com.realdos.screenbehind;
+package com.mairat.smartnear;
 
 import android.Manifest;
 import android.content.Intent;

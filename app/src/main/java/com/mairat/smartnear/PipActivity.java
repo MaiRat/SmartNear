@@ -1,4 +1,4 @@
-package com.realdos.screenbehind;
+package com.mairat.smartnear;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.camera.core.Camera;

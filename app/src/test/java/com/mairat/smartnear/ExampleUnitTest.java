@@ -1,4 +1,4 @@
-package com.realdos.smartnear;
+package com.mairat.smartnear;
 
 import org.junit.Test;
 
